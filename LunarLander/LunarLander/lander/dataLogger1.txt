@@ -1,0 +1,5 @@
+condition:=
+fuel:98.8500000000005%
+altitude:430.8410999999994
+contact:flying
+
